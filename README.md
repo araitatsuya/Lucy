@@ -6,7 +6,7 @@ Output: Lucy_Encoded.jpg
 
     python Lucy_Encoding.py 
 
-You can also decode a hidden message. 
+You can also decode a hidden message from Lucy_Encoded.jpg. 
 
 input: Lucy_Encoded.jpg
 
