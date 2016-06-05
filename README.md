@@ -2,6 +2,7 @@
 You can embed a hidden message into Lucy's photo. 
 
 Input: Lucy.jpg
+
 Output: Lucy_Encoded.jpg
 
     python Lucy_Encoding.py 
