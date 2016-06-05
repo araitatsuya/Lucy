@@ -13,5 +13,7 @@ input: Lucy_Encoded.jpg
 
     python Lucy_Decoding.py 
 
+Basically, that's it. 
+
       June 4th 2016
             Tatsuya J. Arai 
